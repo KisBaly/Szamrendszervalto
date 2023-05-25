@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\szamrendszer\szamrendszer\bin\Debug\szamrendszer.exe.config
+C:\Users\User\Desktop\szamrendszer\szamrendszer\bin\Debug\szamrendszer.exe
+C:\Users\User\Desktop\szamrendszer\szamrendszer\bin\Debug\szamrendszer.pdb
+C:\Users\User\Desktop\szamrendszer\szamrendszer\obj\Debug\szamrendszer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\szamrendszer\szamrendszer\obj\Debug\szamrendszer.Form1.resources
+C:\Users\User\Desktop\szamrendszer\szamrendszer\obj\Debug\szamrendszer.Properties.Resources.resources
+C:\Users\User\Desktop\szamrendszer\szamrendszer\obj\Debug\szamrendszer.csproj.GenerateResource.cache
+C:\Users\User\Desktop\szamrendszer\szamrendszer\obj\Debug\szamrendszer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\szamrendszer\szamrendszer\obj\Debug\szamrendszer.exe
+C:\Users\User\Desktop\szamrendszer\szamrendszer\obj\Debug\szamrendszer.pdb
